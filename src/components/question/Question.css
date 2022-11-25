@@ -1,0 +1,16 @@
+span {
+  display: inline-block;
+}
+button {
+  padding: 0.4rem 0.5rem;
+  font-family: sans-serif;
+  background-color: goldenrod;
+  border: none;
+  font-weight: 600;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.active{
+  background-color: rgb(168, 15, 15);
+}
